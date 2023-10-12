@@ -1,0 +1,17 @@
+.text-blue {
+  color: royalblue;
+}
+.text-gray {
+  color: gray;
+}
+.bg-blue {
+  background-color: royalblue;
+}
+.disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+.table-border {
+  border: 2px solid black;
+  padding: 9px;
+}
